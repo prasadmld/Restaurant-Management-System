@@ -34,7 +34,7 @@ To-do list:
 
 ## Getting Started
    
-git remote and origin https://github.com/prasadmld/THE-Grocery-Store-App.git
+git remote and origin https://github.com/prasadmld/Restaurant-Management-System.git
 
 > Compile and run java code through tomcat server
 >  Run code in eclipse IDE
